@@ -1,0 +1,7 @@
+{
+	"match_gene_list_file" : "/pipeline/fusion/genes.txt",
+	"pegasus_home": "/pipeline/pegasus",
+	"interproscan_home": "/pipeline/interproscan-5.29-68.0",
+	"discordant_reads_cutoff" : 10,
+	"spanning_reads_cutoff" : 5
+}
